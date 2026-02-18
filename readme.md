@@ -1,6 +1,6 @@
 # 🚀 "The Epic Store"
 
-Här är instruktionerna för ert slutprojekt. Ni ska arbeta i team om 4 personer.
+Här är instruktionerna för ert slutprojekt. Ni ska arbeta i team om 4-5 personer.
 
 ## 📝 Uppdraget
 
@@ -10,7 +10,7 @@ Ni ska bygga en modern, funktionell webbapplikation med **Next.js**. Appen ska h
 
 1. **Arkitektur:** Använd Server Components för datahämtning och Client Components för interaktivitet.
 2. **URL State:** Sökning, filtrering eller sortering ska hanteras via `searchParams`.
-3. **Data:** Ni ska kunna Läsa, Skapa, Uppdatera och Radera data mot ett API (t.ex. Platzi eller Supabase).
+3. **Data:** Ni ska kunna Läsa, Skapa, Uppdatera och Radera data mot ett API (JSON Server).
 4. **Forms:** (Gås igenom måndag v.9) – Formulär ska användas för att skicka data.
 
 ## 🔄 Det Agila Arbetssättet (Krav för godkänt)
