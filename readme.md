@@ -13,9 +13,9 @@ Ni ska bygga en modern, funktionell webbapplikation med **Next.js**. Appen ska h
 3. **Data:** Ni ska kunna Läsa, Skapa, Uppdatera och Radera data mot ett API (JSON Server).
 4. **Forms:** (Gås igenom måndag v.9) – Formulär ska användas för att skicka data.
 
-## 🔄 Det Agila Arbetssättet (Krav för godkänt)
+## 🔄 Det Agila Arbetssättet
 
-Det räcker inte att koden fungerar. Ni bedöms på hur ni har jobbat:
+Det räcker inte att koden fungerar. Ni ska tänka på hur ni jobbar:
 
 * **GitHub Projects:** Alla tasks ska finnas på tavlan. Inga tasks får "hänga" utan att vara kopplade till en person.
 * **Branching:** Ingen kod pushas direkt till `main`. Allt går via `feature`-branches.
