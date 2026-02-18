@@ -31,3 +31,8 @@ Det räcker inte att koden fungerar. Ni bedöms på hur ni har jobbat:
 ## 👩‍💻 Startkod
 
 * [repo](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/projekt-agila-metoder-startkod)
+
+## 🏞️ Skiss
+
+![Skissförslag på projektet](sketch.png)
+Det här är ett skissförslag på projektet. Ni behöver ej få alla delar funktionella eller pixel perfect.
