@@ -1,6 +1,6 @@
 # 🚀 "The Epic Store"
 
-Här är instruktionerna för ert slutprojekt. Ni ska arbeta i team om 4-5 personer.
+Här är instruktionerna för ert grupprojekt i agila metoder. Ni ska arbeta i team om 4-5 personer.
 
 ## 📝 Uppdraget
 
