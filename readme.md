@@ -1,4 +1,4 @@
-# 🚀 "The Epic Store"
+# 🚀 Webbshoppen
 
 Här är instruktionerna för ert grupprojekt i agila metoder. Ni ska arbeta i team om 4-5 personer.
 
@@ -24,6 +24,10 @@ Det räcker inte att koden fungerar. Ni bedöms på hur ni har jobbat:
 
 ## 📅 Tidslinje
 
-* **Vecka 8 (Torsdag-Fredag):** Planering, setup och första kodbasen.
-* **Vecka 9 (Måndag):** Föreläsning Forms. Fortsatt jobb.
+* **Vecka 8 (Torsdag-fredag):** Planering, setup och första kodbasen.
+* **Vecka 9 (Måndag-tisdag):** Föreläsning Forms. Fortsatt jobb.
 * **Vecka 9 (Fredag):** Slutdemo och "Sprint Review".
+
+## 👩‍💻 Startkod
+
+* [repo](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/projekt-agila-metoder-startkod)
