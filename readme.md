@@ -4,7 +4,7 @@ Här är instruktionerna för ert grupprojekt i agila metoder. Ni ska arbeta i t
 
 ## 📝 Uppdraget
 
-Ni ska bygga en modern, funktionell webbapplikation med **Next.js**. Appen ska hämta data från ett externt API och tillåta full CRUD-funktionalitet.
+Ni ska bygga en modern, funktionell webbapplikation med **Next.js**. Appen ska hämta data från ett API och tillåta full CRUD-funktionalitet.
 
 ### Tekniska Krav
 
