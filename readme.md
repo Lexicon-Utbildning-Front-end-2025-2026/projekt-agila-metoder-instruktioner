@@ -1,4 +1,4 @@
-# 🚀 Webbshoppen
+# 🚀 Webbshoppen - admindelen
 
 Här är instruktionerna för ert grupprojekt i agila metoder. Ni ska arbeta i team om 4-5 personer.
 
