@@ -36,4 +36,5 @@ Det räcker inte att koden fungerar. Ni ska tänka på hur ni jobbar:
 
 ![Skissförslag på projektet](sketch.png)
 Det här är ett skissförslag på projektet. Ni behöver ej få alla delar funktionella eller pixel perfect.
+
 Ikonerna är från Lucide React. Typsnitt är Inter. 
